@@ -14,5 +14,6 @@ def link
 end
 
 def any_phrase(phrase)
-  p = "#{phrase}"
+  status = "#{phrase}"
+  puts status
 end
