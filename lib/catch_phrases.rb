@@ -14,5 +14,5 @@ def link
 end
 
 def any_phrase(phrase)
-  p = "Do a barrel roll!"
+  p = "#{phrase}"
 end
